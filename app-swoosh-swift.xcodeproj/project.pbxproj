@@ -15,6 +15,7 @@
 		C8B221E3241C020000119D67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8B221E1241C020000119D67 /* LaunchScreen.storyboard */; };
 		C8B221EE241C020000119D67 /* app_swoosh_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B221ED241C020000119D67 /* app_swoosh_swiftTests.swift */; };
 		C8B221F9241C020000119D67 /* app_swoosh_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B221F8241C020000119D67 /* app_swoosh_swiftUITests.swift */; };
+		C8B22209241C0CD700119D67 /* BorderButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B22208241C0CD700119D67 /* BorderButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C8B221F4241C020000119D67 /* app-swoosh-swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "app-swoosh-swiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8B221F8241C020000119D67 /* app_swoosh_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = app_swoosh_swiftUITests.swift; sourceTree = "<group>"; };
 		C8B221FA241C020000119D67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8B22208241C0CD700119D67 /* BorderButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -132,6 +134,7 @@
 		C8B22207241C035400119D67 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				C8B22208241C0CD700119D67 /* BorderButton.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				C8B221DB241C01FF00119D67 /* ViewController.swift in Sources */,
 				C8B221D7241C01FF00119D67 /* AppDelegate.swift in Sources */,
 				C8B221D9241C01FF00119D67 /* SceneDelegate.swift in Sources */,
+				C8B22209241C0CD700119D67 /* BorderButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
