@@ -99,6 +99,7 @@
 		C8B221D5241C01FF00119D67 /* app-swoosh-swift */ = {
 			isa = PBXGroup;
 			children = (
+				C8B22207241C035400119D67 /* View */,
 				C8B221D6241C01FF00119D67 /* AppDelegate.swift */,
 				C8B221D8241C01FF00119D67 /* SceneDelegate.swift */,
 				C8B221DA241C01FF00119D67 /* ViewController.swift */,
@@ -126,6 +127,13 @@
 				C8B221FA241C020000119D67 /* Info.plist */,
 			);
 			path = "app-swoosh-swiftUITests";
+			sourceTree = "<group>";
+		};
+		C8B22207241C035400119D67 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
