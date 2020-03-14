@@ -26,6 +26,7 @@
                         <constraints>
                             <constraint firstAttribute="centerX" secondItem="62h-kt-40f" secondAttribute="centerX" id="0am-OH-1iR"/>
                             <constraint firstItem="K2l-8r-0Jq" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="A0r-pi-ghA"/>
+                            <constraint firstAttribute="trailing" secondItem="K2l-8r-0Jq" secondAttribute="trailing" id="FJi-jl-Cn0"/>
                             <constraint firstItem="K2l-8r-0Jq" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="bTN-XX-AMU"/>
                             <constraint firstAttribute="bottom" secondItem="K2l-8r-0Jq" secondAttribute="bottom" id="eNu-dj-5Kn"/>
                         </constraints>
