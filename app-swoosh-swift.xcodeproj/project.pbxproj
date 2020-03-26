@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C89DE22A242D14850005C6F9 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = C89DE229242D14850005C6F9 /* Player.swift */; };
 		C8B221D7241C01FF00119D67 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B221D6241C01FF00119D67 /* AppDelegate.swift */; };
 		C8B221D9241C01FF00119D67 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B221D8241C01FF00119D67 /* SceneDelegate.swift */; };
 		C8B221DB241C01FF00119D67 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8B221DA241C01FF00119D67 /* ViewController.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C89DE229242D14850005C6F9 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		C8B221D3241C01FF00119D67 /* app-swoosh-swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "app-swoosh-swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8B221D6241C01FF00119D67 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C8B221D8241C01FF00119D67 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 		C8E5A49D241D4EC6004295C5 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				C89DE229242D14850005C6F9 /* Player.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 				C8B221DB241C01FF00119D67 /* ViewController.swift in Sources */,
 				C8B221D7241C01FF00119D67 /* AppDelegate.swift in Sources */,
 				C8B221D9241C01FF00119D67 /* SceneDelegate.swift in Sources */,
+				C89DE22A242D14850005C6F9 /* Player.swift in Sources */,
 				C8E5A4A1241D4FEE004295C5 /* SkillVC.swift in Sources */,
 				C8B22209241C0CD700119D67 /* BorderButton.swift in Sources */,
 			);
